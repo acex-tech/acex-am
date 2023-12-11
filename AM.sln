@@ -1,3 +1,4 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34004.107
@@ -7,6 +8,11 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AM Test", "AM Test\AM Test.vcxproj", "{37255D3D-513A-4F51-8538-0F2A90F2BDD3}"
 	ProjectSection(ProjectDependencies) = postProject
 		{B5C1B91C-48DB-4DC8-87F7-086F3A159A8B} = {B5C1B91C-48DB-4DC8-87F7-086F3A159A8B}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ソリューション項目", "ソリューション項目", "{43AB83FE-DB17-4153-8B2C-C942A4254D07}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
